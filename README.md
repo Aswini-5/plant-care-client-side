@@ -1,9 +1,6 @@
 # 🌿 Green Nest - Plant Care Tracker
 
-![Green Nest - Plant Care Tracker](https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-CodesWithRakib/blob/main/src/assets/cover.png)
-
-**Live Website:** [Green Nest](https://green-nest-plant-care-tracker.web.app/)
-Made with ❤️ by [Md.Rakib Islam](https://github.com/CodesWithRakib)
+![Green Nest - Plant Care Tracker]
 
 Green Nest is a full-stack plant management application that helps users log, track, and care for their beloved houseplants. Whether you're growing succulents, bonsais, or jungle plants, this platform keeps you organized and informed.
 
